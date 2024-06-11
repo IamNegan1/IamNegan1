@@ -1,3 +1,11 @@
+# Hi everyone👋 I'm Negan
+
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=IamNegan1&theme=discord"</a></p>
+
+
+-----
+
 ## Github stats 📊
 
 <details>
@@ -21,10 +29,9 @@
 
 <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 
-## Recent GitHub Activity ✅
-
-![Metrics](https://metrics.lecoq.io/insights/IamNegan1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
-
+<a href="https://t.me/boisserie/">
+<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 
 ----
 
