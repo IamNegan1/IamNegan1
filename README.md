@@ -1,3 +1,4 @@
+## Github stats 📊
 
 <details>
   <summary>Activity Graph 📈</summary>
@@ -10,18 +11,15 @@
 
 <details>
   <summary>Profile Views 👁️</summary>
-
-  <p align="center"> 
-    Visits:<br>
-    <img src="https://komarev.com/ghpvc/?username=IamNegan1&style=for-the-badge"/>
-  </p>
-
+  
+  Visits:<br>
+  <img src="https://komarev.com/ghpvc/?username=IamNegan1&style=for-the-badge"/>
 </details>
 
 
 
 
-
+<img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 
 ## Recent GitHub Activity ✅
 
